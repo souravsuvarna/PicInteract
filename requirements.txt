@@ -1,0 +1,6 @@
+langchain
+streamlit
+openai
+tabulate
+timm
+transformers
