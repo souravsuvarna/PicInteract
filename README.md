@@ -10,7 +10,7 @@ This Streamlit application enables users to inquire about an uploaded image, rec
         
 2. Change to the project directory:
 
-        cd  PicIntearact
+        cd  PicInteract
         
 3. Install the required dependencies:
 
